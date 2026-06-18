@@ -15,7 +15,7 @@ Hmmm... So Now U'r free to explore!! Go..
 
 <img src="Image/cute.jpeg" alt="Cute Fellow" width="200" height="200">
 
-<img src="Image/cont.jpeg" alt="App Screenshot" width="400" height="140">
+<img src="Image/cont.jpeg" alt="App Screenshot" width="400" height="100">
 
 *Refer to Interview.md file*
 
