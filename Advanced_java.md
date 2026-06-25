@@ -45,7 +45,7 @@ The autoboxing is the process of converting primitive data type to the correspon
 Creating an instance of parameterized classes Java automatically converts primitives to objects whenever one is required and another is provided in the method calling.
 When a primitive type is assigned to an object type.
 
-<img src="Image/cute.jpeg" alt="App Screenshot" width="400" height="200">
+<img src="Image/cute.jpeg" alt="App Screenshot" width="200" height="200">
 
 ## Q.5) What do you understand from JDBC Statements?
 
