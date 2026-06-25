@@ -1,6 +1,6 @@
 ## Advanced Java Interview Material
 
-<img src="Image/int2.jpeg" alt="App Screenshot" width="400" height="200">
+<img src="Image/int2.jpeg" alt="App Screenshot" width="300" height="200">
 
 ## Q.1) What is the difference between execute, executeQuery, executeUpdate in JDBC?
 
@@ -15,7 +15,7 @@ The executeQuery statement is used to execute select queries and returns 2 the R
 The executeUpdate statement is used to execute insert/update/delete (DML) statements or DDL statements 3 that return nothing. The output is an integer value that equals the row count for SQL Data Manipulation Language (DML) statements. For DDL statements, the output is 0.
 You should use the execute() method only when you are not sure about the type of statement, else use the executeQuery or executeUpdate method.
 
-<img src="Image/int1.jpeg" alt="App Screenshot" width="400" height="200">
+<img src="Image/int1.jpeg" alt="App Screenshot" width="300" height="200">
 
 ## Q.2) What are the FileInputStream and FileOutputStream?
 ### Answer: 
@@ -25,7 +25,7 @@ Java FileOutputStream is an output stream used for writing data to a file. If yo
 
 However, for reading streams of characters, it is recommended to use FileReader class. Consider the following example for reading bytes from a file.
 
-<img src="Image/int.jpeg" alt="App Screenshot" width="400" height="200">
+<img src="Image/int.jpeg" alt="App Screenshot" width="300" height="200">
 
 ## Q.3) What are the steps that are followed when two computers connect through TCP?
 ### Answer: 
@@ -37,7 +37,7 @@ The following steps are performed when two computers connect through TCP:
 4) The Socket class constructor attempts to connect with the server on the specified name. If the connection is established, the client will have a socket object that can communicate with the server.
 5) The accept() method invoked by the server returns a reference to the new socket on the server that is connected with the server.
 
-<img src="Image/int3.jpeg" alt="App Screenshot" width="400" height="200">
+<img src="Image/int3.jpeg" alt="App Screenshot" width="300" height="200">
 
 ## Q.4) What are autoboxing and unboxing? When does it occur?
 ### Answer: 
@@ -62,4 +62,4 @@ Used for general-purpose access 1 to the database and executes a static SQL quer
 
 ### allableStatement: Used to access the 3 database stored procedures and helps in accepting runtime parameters.
 
-<img src="Image/cont.jpeg" alt="App Screenshot" width="90" height="400">
+<img src="Image/cont.jpeg" alt="App Screenshot" width="400" height="90">
