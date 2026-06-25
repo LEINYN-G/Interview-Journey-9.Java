@@ -62,4 +62,4 @@ Used for general-purpose access 1 to the database and executes a static SQL quer
 
 ### allableStatement: Used to access the 3 database stored procedures and helps in accepting runtime parameters.
 
-<img src="Image/cont.jpeg" alt="App Screenshot" width="90" height="200">
+<img src="Image/cont.jpeg" alt="App Screenshot" width="90" height="400">
